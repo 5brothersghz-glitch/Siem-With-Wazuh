@@ -76,7 +76,7 @@ I configured a Kali Linux virtual machine and installed MITRE Caldera. Caldera w
 
 ### Screenshot: Caldera Dashboard
 
-![Caldera Dashboard](images/caldera-dashboard.png)
+![Caldera Dashboard](images/caldera_home.png)
 
 ---
 
