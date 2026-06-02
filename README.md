@@ -177,9 +177,7 @@ This integration improved the efficiency of reviewing security events and demons
 +------------------+
 ```
 
-### Screenshot: Architecture Diagram
 
-![Architecture Diagram](images/architecture-diagram.png)
 
 ---
 
