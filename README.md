@@ -72,7 +72,7 @@ I configured a Kali Linux virtual machine and installed MITRE Caldera. Caldera w
 
 ### Screenshot: Caldera Installation
 
-![Caldera Installation](images/caldera-install.png)
+![Caldera Installation](images/caldera_install.png)
 
 ### Screenshot: Caldera Dashboard
 
@@ -86,11 +86,11 @@ Using MITRE Caldera, I launched attack simulations against the Windows 10 endpoi
 
 ### Screenshot: Attack Execution
 
-![Attack Execution](images/caldera-attack.png)
+![Attack Execution](images/caldera_operation.png)
 
 ### Screenshot: MITRE ATT&CK Techniques
 
-![MITRE ATT&CK](images/mitre-techniques.png)
+![MITRE ATT&CK](images/caldera_attack.png)
 
 ---
 
