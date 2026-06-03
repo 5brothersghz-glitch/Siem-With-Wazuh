@@ -16,7 +16,7 @@ Using VirtualBox, I created three virtual machines:
 
 ### Screenshot: Virtual Machines
 
-![Virtual Machines](images/vms-overview.png)
+![Virtual Machines](images/VM_pic.png)
 
 ---
 
@@ -26,7 +26,7 @@ I installed Wazuh on the Ubuntu Server VM and configured the Wazuh Manager, Inde
 
 ### Screenshot: Wazuh Installation
 
-![Wazuh Installation](images/wazuh-installation.png)
+![Wazuh Installation](images/wazuh_install_linux.png)
 
 ### Screenshot: Wazuh Dashboard
 
@@ -40,11 +40,11 @@ I installed the Wazuh Agent on the Windows 10 virtual machine and registered it 
 
 ### Screenshot: Windows Agent Installation
 
-![Windows Agent](images/windows-agent.png)
+![Windows Agent](images/wazuh_install_win.png)
 
 ### Screenshot: Endpoint Connected to Wazuh
 
-![Connected Endpoint](images/endpoint-connected.png)
+![Connected Endpoint](images/wazuh_agent.png)
 
 ---
 
@@ -58,7 +58,7 @@ To enhance endpoint visibility, I installed Sysmon (System Monitor) on the Windo
 
 ### Screenshot: Sysmon Events in Wazuh
 
-![Sysmon Events](images/sysmon-events.png)
+![Sysmon Events](images/sysmon_wazuh.png)
 
 ---
 
@@ -68,7 +68,7 @@ I configured a Kali Linux virtual machine and installed MITRE Caldera. Caldera w
 
 ### Screenshot: Kali Linux
 
-![Kali Linux](images/kali-linux.png)
+![Kali Linux](images/kali_install.png)
 
 ### Screenshot: Caldera Installation
 
@@ -100,11 +100,11 @@ While the attacks were running, Wazuh collected Windows Event Logs and Sysmon te
 
 ### Screenshot: Security Alerts
 
-![Wazuh Alerts](images/wazuh-alerts.png)
+![Wazuh Alerts](images/security_alerts.png)
 
 ### Screenshot: Event Investigation
 
-![Event Investigation](images/event-investigation.png)
+![Event Investigation](images/event_investigation.png)
 
 ---
 
@@ -118,7 +118,7 @@ This integration improved the efficiency of reviewing security events and demons
 
 ### Screenshot: Ollama Installation
 
-![Ollama Installation](images/ollama-installation.png)
+![Ollama Installation](images/download_ollama.png)
 
 ### Screenshot: Shell Script
 
@@ -126,7 +126,7 @@ This integration improved the efficiency of reviewing security events and demons
 
 ### Screenshot: AI Log Analysis
 
-![AI Analysis](images/ollama-analysis.png)
+![AI Analysis](images/AI-log-result.png)
 ---
 
 ## Skills Demonstrated
