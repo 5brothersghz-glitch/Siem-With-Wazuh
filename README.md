@@ -184,3 +184,10 @@ This integration improved the efficiency of reviewing security events and demons
 ## Conclusion
 
 This lab provided hands-on experience with security monitoring, endpoint visibility, threat detection, adversary emulation, incident investigation, and AI-assisted log analysis. By integrating Sysmon with Wazuh and generating attack activity through MITRE Caldera, I gained practical experience with SOC workflows and cybersecurity tools commonly used in enterprise security environments.
+
+
+## Project Contributors
+This homelab project is a collective effort by the members of Network Security Organization (NSO). Big shoutout to the following members who helped set up and built the project:
+
+* <insert user>
+* <insert user>
