@@ -189,5 +189,4 @@ This lab provided hands-on experience with security monitoring, endpoint visibil
 ## Project Contributors
 This homelab project is a collective effort by the members of Network Security Organization (NSO). Big shoutout to the following members who helped set up and built the project:
 
-* <insert user>
-* <insert user>
+* Austin-Reid Rodriguez, Nicholas Villate, Daniele Vernaleone, Joseph Carmona, Keniel Cruz
